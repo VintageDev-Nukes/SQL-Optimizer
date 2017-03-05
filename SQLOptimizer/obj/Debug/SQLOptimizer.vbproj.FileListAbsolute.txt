@@ -1,0 +1,13 @@
+C:\Users\Alvaro\AppData\Local\Temporary Projects\SQLOptimizer\bin\Debug\SQLOptimizer.exe.config
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\bin\Debug\SQLOptimizer.exe.config
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\bin\Debug\SQLOptimizer.exe
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\bin\Debug\SQLOptimizer.pdb
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\bin\Debug\SQLOptimizer.xml
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.frmMain.resources
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.Resources.resources
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.exe
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.xml
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.pdb
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\bin\Debug\Ionic.Zip.dll
+C:\Users\Alvaro\Documents\SQLOptimizer\SQLOptimizer\obj\Debug\SQLOptimizer.vbprojResolveAssemblyReference.cache
